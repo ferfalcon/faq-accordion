@@ -76,6 +76,7 @@ Your challenge is to build out this FAQ accordion and get it looking as close to
 ### Useful resources
 
 - [A Practical Guide To User Stories & Requirements](https://www.youtube.com/watch?v=MECG5MPy_cc)
+- [npm workspaces](https://docs.npmjs.com/cli/v10/using-npm/workspaces#defining-workspaces)
 
 ### Continued development
 

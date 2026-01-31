@@ -1,0 +1,29 @@
+{
+  "name": "faq-accordion",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Over engineer solution to the FAQ accordion challenge on Frontend Mentor.",
+  "scripts": {
+    "dev": "concurrently -k -n api,web,admin \"npm -w apps/api run dev\" \"npm -w apps/web run dev\" \"npm -w apps/admin run dev\"",
+    "build": "npm -ws run build",
+    "lint": "npm -ws run lint",
+    "test": "npm -ws run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferfalcon/faq-accordion.git"
+  },
+  "author": "Fer Falcon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ferfalcon/faq-accordion/issues"
+  },
+  "homepage": "https://github.com/ferfalcon/faq-accordion#readme",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "dependencies": {
+    "concurrently": "^9.2.1"
+  }
+}
