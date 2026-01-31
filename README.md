@@ -6,17 +6,21 @@
 
 This is a over engineer solution to the [FAQ accordion challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz). Instead of just create the accordion with the hard coded data this solutions adds the following:
 
-- Create an API to feed the accordion content
-- Save the accordion content in a database
-- Create a simple dashboard to Create, Update, and Delete the content
+- An API to feed the accordion content
+- A database integration to save the accordion content
+- Create a simple dashboard to Create, Update, and Delete the accordion content
 
 ## Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [User Stories](#user-stories)
   - [Links](#links)
 - [My process](#my-process)
+  - [Steps](#steps)
   - [Built with](#built-with)
+  - [Useful resources](#useful-resources)
+  - [Continued development](#continued-development)
 - [Author](#author)
 
 ## The challenge
@@ -33,7 +37,7 @@ Your challenge is to build out this FAQ accordion and get it looking as close to
 - Set the order the frontend users see the FAQs
 - See the date of the latest modification for each FAQ
 
-**Frontend**: Users should be able to:
+**Frontend**: Visitors should be able to:
 
 - Hide/Show the answer to a question when the question is clicked
 - Navigate the questions and hide/show answers using keyboard navigation alone
@@ -46,6 +50,10 @@ Your challenge is to build out this FAQ accordion and get it looking as close to
 - Live Site URL: [TBD](https://TBD.com)
 
 ## My process
+
+### Steps
+
+1. Write [User Stories](https://github.com/ferfalcon/faq-accordion/blob/main/USER_STORIES.md).
 
 ### Built with
 
@@ -64,6 +72,14 @@ Your challenge is to build out this FAQ accordion and get it looking as close to
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+
+### Useful resources
+
+- [A Practical Guide To User Stories & Requirements](https://www.youtube.com/watch?v=MECG5MPy_cc)
+
+### Continued development
+
+- As an Admin, I want to search/filter FAQs, so I can manage larger lists.
 
 ## Author
 
