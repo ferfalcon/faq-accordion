@@ -47,7 +47,8 @@ Your challenge is to build out this FAQ accordion and get it looking as close to
 ### Links
 
 - Solution URL: [https://github.com/ferfalcon/faq-accordion](https://github.com/ferfalcon/faq-accordion)
-- Live Site URL: [TBD](https://TBD.com)
+- Web Site URL: [https://faqs-accordion-web-site.onrender.com/](https://faqs-accordion-web-site.onrender.com/)
+- Admin Site URL: [https://faqs-accordion-admin-site.onrender.com/](https://faqs-accordion-admin-site.onrender.com/)
 
 ## My process
 
