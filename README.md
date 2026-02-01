@@ -54,7 +54,10 @@ Your challenge is to build out this FAQ accordion and get it looking as close to
 
 ### Steps
 
-1. Write [User Stories](https://github.com/ferfalcon/faq-accordion/blob/main/USER_STORIES.md).
+1. Write [User Stories](https://github.com/ferfalcon/faq-accordion/blob/main/USER_STORIES.md)
+2. Set up the 3 apps `web`, `admin`, `api`
+3. Implement CORS
+4. Wiring apps
 
 ### Built with
 
