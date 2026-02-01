@@ -1,7 +1,7 @@
 import './App.css'
 
 function App() {
-  fetch("https://faqs-accordion-api.onrender.com/health")
+  fetch("https://faqs-accordion-api.onrender.com/healthz")
     .then((r) => r.json())
     .then(console.log)
     .catch(console.error);
