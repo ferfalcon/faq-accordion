@@ -1,13 +1,11 @@
-import './App.css'
+import './App.css';
+import HealthCheck from './components/HealthCheck/HealthCheck';
 
 function App() {
-  fetch("https://faqs-accordion-api.onrender.com/healthz")
-    .then((r) => r.json())
-    .then(console.log)
-    .catch(console.error);
   return (
     <>
       <h1>Admin Site</h1>
+      <HealthCheck />
     </>
   )
 }
