@@ -58,18 +58,23 @@ Your challenge is to build out this FAQ accordion and get it looking as close to
 2. Set up the 3 apps `web`, `admin`, `api`
 3. Implement CORS
 4. Wiring apps
+5. Implement Prisma
+6. Implement Zod
+7. Implement Swagger
+
 
 ### Built with
 
+- [Node.js](https://nodejs.org/en) - JavaScript runtime environment 
 - [TypeScript](https://www.typescriptlang.org/) - Typed Superset of JavaScript
-- [Node.js](https://nodejs.org/en) - For styles
 - [Fastify](https://fastify.dev/) - Node.js framework
 - [PostgreSQL](https://www.postgresql.org/) - Relational Database
-- [Prisma](https://www.prisma.io/) - TypeScript ORM
 - [Neon](https://neon.com/) - Serverless Postgres service
-- [Render](https://render.com/) - Deployment service
+- [Prisma](https://www.prisma.io/) - ORM
+- [Zod](https://zod.dev/) - Schema validation library
 - [Vite](https://vite.dev/) - Frontend build tool
 - [React](https://reactjs.org/) - JS library
+- [Render](https://render.com/) - Deployment service
 - [GitHub](https://github.com/) - Git version control
 - Semantic HTML5 markup
 - CSS custom properties
